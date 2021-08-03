@@ -1,0 +1,28 @@
+{
+  "app": {
+    "title": "Pirate News"
+  },
+  "btn": {
+    "readMore": "Read more"
+  },
+  "pages": {
+    "home": {
+      "title": "Home"
+    },
+    "terms": {
+      "title": "Terms of use"
+    },
+    "news": {
+      "title": "News",
+      "source": "Source"
+    }
+  },
+  "notices": {
+    "notPolitical": "This website is not controlled by the Pirate Party or any other political party."
+  },
+  "footer": {
+    "codeLicense": "Code license",
+    "textContent": "text content",
+    "ifNotSpecified": "if not specified"
+  }
+}

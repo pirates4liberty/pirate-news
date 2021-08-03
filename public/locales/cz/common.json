@@ -1,0 +1,28 @@
+{
+  "app": {
+    "title": "Pirátské zprávy"
+  },
+  "btn": {
+    "readMore": "Číst dále"
+  },
+  "pages": {
+    "home": {
+      "title": "Úvod"
+    },
+    "terms": {
+      "title": "Podmínky užití"
+    },
+    "news": {
+      "title": "Novinky",
+      "source": "Zdroj"
+    }
+  },
+  "notices": {
+    "notPolitical": "Tento web není řízen Pirátskou stranou, ani jinou politickou stranou."
+  },
+  "footer": {
+    "codeLicense": "Licence kódu",
+    "textContent": "textový obsah",
+    "ifNotSpecified": "pokud není uvedeno"
+  }
+}
