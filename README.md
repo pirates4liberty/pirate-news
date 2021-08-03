@@ -1,6 +1,6 @@
 # News related to Pirate parties aggregator
 
-URL: https://news.pirates4liberty.cz
+Visit public website at: https://news.pirates4liberty.cz
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped
 with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
